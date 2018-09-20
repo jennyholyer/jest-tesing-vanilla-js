@@ -1,0 +1,21 @@
+{
+  "name": "jest-testing-vanilla",
+  "version": "1.0.0",
+  "description": "basic jest testing ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "jest": "^22.4.3"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "author": "Jenny Holyer",
+  "license": "ISC"
+}
